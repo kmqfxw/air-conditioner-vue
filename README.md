@@ -1,5 +1,5 @@
 <h1 align="center">
-Air Conditioner Vue
+Vue 空调
 </h1>
 
 <p align="center">
@@ -24,7 +24,7 @@ Air Conditioner Vue
 - 裸机[main]：[https://air-conditioner.qfxw.us.kg/](https://air-conditioner.qfxw.us.kg/)
 - 样板房：<https://blog.qfxw.us.kg/air-conditioner/>
 
-## Features
+## 特点
 
 ### 优势
 
@@ -51,7 +51,7 @@ Air Conditioner Vue
 
 样板房：[空调房](https://blog.qfxw.us.kg/air-conditioner/)
 
-## Dev
+## 开发
 
 ```bash
 # 开发预览
@@ -74,7 +74,7 @@ npm run build
     - [ ] 接入 [喜马拉雅](https://m.ximalaya.com/sleepaudio/6?mixedTrackIds=331526646&utm_source=smxkt) 更多音效
 - [x] 适应系统的亮暗模式
 
-## Ref
+## 参考文献
 
 - 数字字体: [Digital 7](https://www.dafont.com/digital-7.font)，Free for personal use
 - 空调工作声: [Air Extractor Fan | freesound](https://freesound.org/people/InspectorJ/sounds/403664/)
