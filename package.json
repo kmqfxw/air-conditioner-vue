@@ -5,12 +5,12 @@
   "private": true,
   "packageManager": "npm@8.18.0",
   "author": {
-    "url": "https://anzhiy.cn",
-    "email": "chen@anzhiy.cn",
-    "name": "anzhiyu"
+    "url": "https://qfxw.us.kg",
+    "email": "admin@qfxw.us.kg",
+    "name": "qfxw"
   },
   "repository": {
-    "url": "https://github.com/anzhiyu-c/air-conditioner-vue"
+    "url": "https://github.com/kmqfxw/air-conditioner-vue"
   },
   "scripts": {
     "dev": "vite --host 0.0.0.0",
