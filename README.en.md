@@ -19,10 +19,10 @@ Cloud air conditioner. Portable air conditioner. Invite a cool breeze into your 
 
 The idea of the project comes from [Yunyou Jun] (https://www.yunyoujun.cn/), is built with VUE3 + VITE + TS, without any UI framework, no extra style resources, and only 84kb after packaging.
 
-> [Cloud air conditioning, portable small air conditioning, #VUE3 #VITE #TS | AnZhiyu](https://anzhiy.cn/air-conditioner/)
+> [Cloud air conditioning, portable small air conditioning, #VUE3 #VITE #TS | qfxw](https://air-conditioner.qfxw.us.kg/)
 
-- Bare metal[main]: [https://loquacious-bienenstitch-58539b.netlify.app/n](https://loquacious-bienenstitch-58539b.netlify.app/)
-- Model room: <https://anzhiy.cn/air-conditioner/>
+- Bare metal[main]: [https://air-conditioner.qfxw.us.kg](https://air-conditioner.qfxw.us.kg/)
+- Model room: <https://blog.qfxw.us.kg/air-conditioner/>
 
 ## Features
 
@@ -44,12 +44,12 @@ The idea of the project comes from [Yunyou Jun] (https://www.yunyoujun.cn/), is 
 ### iframe
 
 ```html
-<iframe height="740" src="https://loquacious-bienenstitch-58539b.netlify.app/"></iframe>
+<iframe height="740" src="https://air-conditioner.qfxw.us.kg/"></iframe>
 ```
 
 Quickly install an air conditioner on your website.
 
-Sample Room：[Air conditioned room](https://anzhiy.cn/air-conditioner/)
+Sample Room：[Air conditioned room](https://air-conditioner.qfxw.us.kg/)
 
 ## Dev
 
