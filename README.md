@@ -21,8 +21,8 @@ Air Conditioner Vue
 
 > [云空调，便携小空调，#VUE3 #VITE #TS ｜安知鱼](https://blog.anheyu.com/air-conditioner/)
 
-- 裸机[main]：[https://loquacious-bienenstitch-58539b.netlify.app/n](https://loquacious-bienenstitch-58539b.netlify.app/)
-- 样板房：<https://blog.anheyu.com/air-conditioner/>
+- 裸机[main]：[https://air-conditioner.qfxw.us.kg/](https://air-conditioner.qfxw.us.kg/)/)
+- 样板房：<https://blog.qfxw.us.kg/air-conditioner/>
 
 ## Features
 
