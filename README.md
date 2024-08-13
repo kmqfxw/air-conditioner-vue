@@ -44,7 +44,7 @@ Air Conditioner Vue
 ### iframe
 
 ```html
-<iframe height="740" src="[[https://air-conditioner.qfxw.us.kg/](https://air-conditioner.qfxw.us.kg/)/"></iframe>
+<iframe height="740" src="https://air-conditioner.qfxw.us.kg/"></iframe>
 ```
 
 您可以快速为您的网站安装空调。
