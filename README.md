@@ -19,7 +19,7 @@ Air Conditioner Vue
 
 该项目创意来自 [云游君](https://www.yunyoujun.cn/), 使用 VUE3 + VITE + TS 构建, 未使用任何 UI 框架，无多余样式资源，打包后仅 84kb。
 
-> [云空调，便携小空调，#VUE3 #VITE #TS ｜安知鱼](https://blog.anheyu.com/air-conditioner/)
+> [云空调，便携小空调，#VUE3 #VITE #TS ｜清风如水](https://air-conditioner.qfxw.us.kg/)
 
 - 裸机[main]：[https://air-conditioner.qfxw.us.kg/](https://air-conditioner.qfxw.us.kg/)
 - 样板房：<https://blog.qfxw.us.kg/air-conditioner/>
